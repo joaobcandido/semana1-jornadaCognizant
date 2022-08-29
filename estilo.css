@@ -5,4 +5,13 @@ body{
 #div1{
      border:solid;
      border-color: blueviolet;
+     
+}
+
+div{
+    height: 400px;
+    width: 400px;
+    background-color: rgb(247, 249, 250);
+    border: solid;
+    border-color: black;
 }
